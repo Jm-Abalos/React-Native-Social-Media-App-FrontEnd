@@ -280,9 +280,9 @@ const styles = StyleSheet.create({
   viewAllButton: {
     fontSize: 12,
     fontWeight: 'bold',
-    backgroundColor: '#f0f0f0', // Color inside the border (light grey)
-    padding: 10,               // Space between the text and the border
-    borderRadius: 8,           // Optional: rounds the corners of the button
+    backgroundColor: '#f0f0f0', 
+    padding: 10,              
+    borderRadius: 8,           
     textAlign: 'center', 
   },
   topUsersList: {
