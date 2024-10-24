@@ -77,6 +77,7 @@ const SocialMediaApp = () => {
 
   const HomeView = () => (
     <SafeAreaView style={styles.container}>
+     {renderDots()}
       <View style={styles.header}>
       <TouchableOpacity>
           <Feather name="bell" size={24} color="white" />
